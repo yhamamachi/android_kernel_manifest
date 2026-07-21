@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <include name="common-android15-6.6.xml" />
+  <include name="common-android15-6.6-override.xml" />
 </manifest>
