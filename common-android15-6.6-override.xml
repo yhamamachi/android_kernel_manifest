@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="github" fetch="https://github.com"/>
-  <project path="common-modules/xen-virtual-device" name="yhamamachi/android_kernel_xen-virtual-device" remote="github" revision="07ea403dcb3057e2b5b4e39b63e01d1421dfd0cb" /> <!-- android-15-xenvm-sh-main: dist bluetooth.ko/rfkill.ko, based on modern kleaf API migration -->
+  <project path="common-modules/xen-virtual-device" name="yhamamachi/android_kernel_xen-virtual-device" remote="github" revision="a5ecc0fa889f2f18e478d68d1eea74d96853fb93" /> <!-- android-15-xenvm-sh-main: dist libarc4.ko/virtio_blk.ko -->
 </manifest>
