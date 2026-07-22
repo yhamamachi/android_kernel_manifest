@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="github" fetch="https://github.com"/>
-  <project path="common-modules/xen-virtual-device" name="yhamamachi/android_kernel_xen-virtual-device" remote="github" revision="a5ecc0fa889f2f18e478d68d1eea74d96853fb93" /> <!-- android-15-xenvm-sh-main: dist libarc4.ko/virtio_blk.ko -->
+  <project path="common-modules/xen-virtual-device" name="yhamamachi/android_kernel_xen-virtual-device" remote="github" revision="d142e62810b18cec182996be6a0268a40755fccb" /> <!-- android-15-xenvm-sh-main: dist virtio_pci*.ko -->
 </manifest>
